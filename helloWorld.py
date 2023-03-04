@@ -9,4 +9,4 @@ print("New commit")
 print("Next commit")
 
 print("Scond dmit")
-print("Commit")
+print("Second life")
